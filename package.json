@@ -1,0 +1,9 @@
+{
+  "name": "prettier-plugin-pnp",
+  "devDependencies": {
+    "@yarnpkg/pnpify": "^2.2.1",
+    "prettier": "^2.1.2",
+    "prettier-plugin-organize-imports": "^1.1.1",
+    "typescript": "^4.0.3"
+  }
+}
